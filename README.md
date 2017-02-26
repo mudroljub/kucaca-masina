@@ -1,5 +1,7 @@
-![](screen.png)
+[![](screen.png)](https://mudroljub.github.io/kucaca-masina/)
 
 # Kucaća mašina
 
-Efekat stare pisaće mašine za vašu stranicu.
+Efekat (animacija i zvuk) stare pisaće mašine za vašu stranicu.
+
+Pogledaj kako radi: [mudroljub.github.io/kucaca-masina](https://mudroljub.github.io/kucaca-masina/)
