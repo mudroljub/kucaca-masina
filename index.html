@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="sr-RS">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Izveštaj</title>
+	<link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+	<style>
+		.sadrzaj {
+			padding: 0 15%;
+		}
+
+		#izvestaj-pozadina {
+			background-image: url('izvestaj.jpg');
+			background-size: cover;
+			background-color: #cccccc;
+			display: block;
+			margin: 0 auto;
+			height: 24.3em;
+			width: 39.6em;
+		}
+
+		#izvestaj {
+			padding-top: 12em;
+			font-family: 'Special Elite', Courier;
+		}
+
+		#tekst,
+		#potpis {
+			padding-left: 15%;
+			padding-right: 15%;
+			line-height: 1.2;
+			letter-spacing: 0.04em;
+		}
+	</style>
+</head>
+
+<body onload='kucaj()'>
+	<div class="sadrzaj">
+
+		<div id="izvestaj-pozadina">
+			<div id="izvestaj">
+				<p id="tekst"></p>
+				<p id="potpis"></p>
+			</div>
+
+			<audio id="kuckanje" autoplay loop>
+  		<source src="zvuci/kuckanje.ogg" type="audio/ogg">
+  		<source src="zvuci/kuckanje.mp3" type="audio/mpeg">
+	</audio>
+
+		</div>
+	</div>
+
+	<script src="main.js"></script>
+</body>
+
+</html>
