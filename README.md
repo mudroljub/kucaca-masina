@@ -1,4 +1,4 @@
-[![](screen.png)](https://mudroljub.github.io/kucaca-masina/)
+[![](screen.jpg)](https://mudroljub.github.io/kucaca-masina/)
 
 # Kucaća mašina
 
